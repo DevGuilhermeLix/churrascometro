@@ -1,0 +1,106 @@
+ body {
+     margin: 0;
+     padding: 0;
+     outline: 0;
+     box-sizing: border-box;
+     font-family: "Poppins", sans-serif;
+     font-size: 60%;
+
+ }
+
+
+ @font-face {
+     font-family: churras;
+     src: url(./images/MagicSchoolOne.ttf);
+
+ }
+
+
+
+ body {
+     background-color: white;
+     background-position: center;
+     background-size: cover;
+
+ }
+
+ .container {
+     max-width: 300px;
+     margin: 0;
+     padding: 20px;
+     border-radius: 4rem 0 0 4rem;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: white;
+     text-align: center;
+     font-size: 15px;
+     background-color: #af3a4a;
+     float: right;
+     width: 450px;
+     align-items: center;
+     padding-bottom: 0;
+     height: 850px;
+
+ }
+
+ #churras {
+     font-size: 40px;
+ }
+
+
+ input {
+     margin-bottom: 10px;
+     display: block;
+     width: 100%;
+     padding: 5px;
+     box-sizing: border-box;
+     border-radius: 10px;
+     height: 50px;
+     font-size: 1rem;
+     text-align: center;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+ button {
+     border-radius: 30px;
+     width: 100px;
+     height: 50px;
+     margin-top: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+
+ button:hover {
+
+     background-color: #00000038;
+ }
+
+ #img {
+
+     display: inline-block;
+     margin-left: 400px;
+     display: block;
+
+
+
+ }
+
+ #ex {
+
+     text-align: center;
+     color: black;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 40px;
+     margin-top: 0;
+     display: inline-block;
+     margin-left: 500px;
+     margin-top: 70px;
+
+
+ }
+
+ #final {
+
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 20px;
+
+ }
